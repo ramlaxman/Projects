@@ -112,6 +112,7 @@ Graph
 **Minimum Spanning Tree** - Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a
 subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible.
 
+**Optimal Path Finder** - Create a program which will take minimal distance path from delivery boy from his first customer to last one for that day. You can consider customer request to introduce scalability in program.
 
 Data Structures
 ---------
